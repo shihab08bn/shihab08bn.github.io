@@ -7,7 +7,7 @@ permalink: /about/
 Yasin Shihab
 ============
 
-- [shihabyasin@gmail.com]()
+- [shihab08bn@gmail.com]()
 
 **Software people, love to code, practice software engineering ethics & create soft-stuffs.**
 
