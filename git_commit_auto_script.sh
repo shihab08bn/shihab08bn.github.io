@@ -3,7 +3,7 @@
 ## CLASS_PROGRAMMING 
 ## command line param, example for a repo:   $1 => username/username.github.io.git
 
-PATH_REPO=ShihabYasin/shihabyasin.github.io
+PATH_REPO=ShihabYasin/shihab08bn.github.io
 
 git remote set-url origin git@github.com:$PATH_REPO
 
