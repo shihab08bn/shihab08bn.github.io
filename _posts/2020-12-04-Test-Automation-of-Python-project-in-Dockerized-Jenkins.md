@@ -131,7 +131,7 @@ junit_family=xunit1
 
 <pre class="code" style="background-color: rgb(217,238,239,255);">
 FROM python:3.6-slim
-MAINTAINER shihabyasin@gmail.com
+MAINTAINER shihab08bn@gmail.com
 COPY . /python-project-compute
 WORKDIR /python-project-compute
 RUN pip install --no-cache-dir -r requirements.txt
