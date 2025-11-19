@@ -16,8 +16,6 @@ tag: DevOps
 1. Live and die with [12-factor](https://12factor.net/)
 1. Services should have a single purpose (do one thing and do it well), be loosely coupled (know little about each other), and have high cohesion (encapsulates all related functionality and data together).
 
-
-
 ### Major Parts:
 
 1. Application
@@ -25,9 +23,8 @@ tag: DevOps
 1. Platform
 
 <p align="center">
-<img title="microservices-overview" width="600" height="350" src="https://github.com/ShihabYasin/shihabyasin.github.io/blob/gh-pages/public/img/microservices-overview.png?raw=true" alt="microservices-overview">
+<img title="microservices-overview" width="600" height="350" src="https://github.com/shihab08bn/shihab08bn.github.io/blob/gh-pages/public/img/microservices-overview.png?raw=true" alt="microservices-overview">
 </p>
-
 
 ## Application
 
@@ -47,7 +44,7 @@ Contains live services.
 1. [12 Factor](https://12factor.net/)
 1. Immutability has to be considered.
 1. Documentation is key - Swagger / OpenAPI spec.
-1. Handle auth. Manage  API Gateway.
+1. Handle auth. Manage API Gateway.
 
 ### Storage
 
@@ -119,8 +116,6 @@ Triggers:
 1. [Spinnaker](https://www.spinnaker.io/)
 1. Old Tools (Ansible, Chef, Puppet)
 
-
 <p align="center">
-<img title="microservices-overview-ci-cd" width="600" height="350" src="https://github.com/ShihabYasin/shihabyasin.github.io/blob/gh-pages/public/img/microservices-overview-ci-cd.png?raw=true" alt="microservices-overview-ci-cd">
+<img title="microservices-overview-ci-cd" width="600" height="350" src="https://github.com/shihab08bn/shihab08bn.github.io/blob/gh-pages/public/img/microservices-overview-ci-cd.png?raw=true" alt="microservices-overview-ci-cd">
 </p>
-

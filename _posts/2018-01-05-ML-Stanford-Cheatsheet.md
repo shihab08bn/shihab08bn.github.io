@@ -8,8 +8,7 @@ tag: ML
 
 ### Stanford ML Cheatsheet:
 
-|<a href="https://github.com/ShihabYasin/shihabyasin.github.io/blob/gh-pages/public/files/super-cheatsheet-machine-learning.pdf"><img src="https://github.com/ShihabYasin/shihabyasin.github.io/blob/gh-pages/public/img/22.png?raw=true?" alt="Illustration" width="220px"/></a>|
-
+|<a href="https://github.com/shihab08bn/shihab08bn.github.io/blob/gh-pages/public/files/super-cheatsheet-machine-learning.pdf"><img src="https://github.com/shihab08bn/shihab08bn.github.io/blob/gh-pages/public/img/22.png?raw=true?" alt="Illustration" width="220px"/></a>|
 
 |:--:|
 |Stanford ML Cheatsheet|
